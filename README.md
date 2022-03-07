@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Age-22-blue" />
   <img src="https://img.shields.io/badge/Country-Germany-green" />
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20Sinhala-brightgreen" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20German-brightgreen" />
 </p>
 <hr>
 
