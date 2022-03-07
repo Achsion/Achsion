@@ -14,5 +14,5 @@
 
 - ⚡ I prefer writing backend stuff
 - 🏆 I like spending 5h to automate a repetetive 5min task
-- <img src="./.github/gif/senko.gif" width="20px"> food and anime are the reasons to live
+- <img src="./.github/gif/senkoTail.gif" width="20px"> food and anime are the reasons to live
 
